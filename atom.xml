@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-10-08T16:34:31.484Z</updated>
+  <updated>2017-10-09T03:31:38.667Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Blog, you shall be written!</title>
+    <link href="http://yoursite.com/blog-you-shall-be-written/"/>
+    <id>http://yoursite.com/blog-you-shall-be-written/</id>
+    <published>2017-10-08T15:52:09.800Z</published>
+    <updated>2017-10-09T03:31:38.667Z</updated>
+    
+    <content type="html"><![CDATA[<p>I’ve been told by a few people now, and I’ve been telling the same thing to myself for quite a while, you should start a blog. My name is Leopold by the way, and I am a developer doing iOS Development for the most part. </p><p>There are already quite a few blogs/articles out there that do an amazing job. They are quite interesting, with examples most of the time, sometimes they are fun too (my favourites one usually, thanks <a href="https://krakendev.io/" target="_blank" rel="external">KrakenDev</a>. I will do my best to live up to them as the time passes and if I find interesting things to share with the community.</p><h2 id="Why-a-blog"><a href="#Why-a-blog" class="headerlink" title="Why a blog?"></a>Why a blog?</h2><p>In the past I tried quite a few times explaining abstract concepts to colleagues. I am among the people that work by example. Sometimes it’s not just about understanding what you can do with language or tools. Sometimes it’s first about understanding the challenges/problems to overcome with elegant solutions. </p><p>For example, I was only able to understand the advantages of MVVM when I saw/understood how it was helping to reuse components. Before that MVVM was to me a beautiful abstract concept that did not hold any real value. Same thing can be said when I saw how the coordinator pattern was solving the bloated AppDelegate. Sometimes, you have to get your hands dirty to actually understand how solutions make you more efficient in real life.  </p><h3 id="Code-Human-gt-Code-Monkey"><a href="#Code-Human-gt-Code-Monkey" class="headerlink" title="Code Human &gt; Code Monkey"></a>Code Human &gt; Code Monkey</h3><p>In this blog I will try to have 4 guidelines:</p><ul><li>You shall give (/alternative) solutions to problems with struct</li><li>You shall give examples/sample projects/walkthrough with explanations</li><li>You shall be accessible for the weak, the strong and the unowned</li></ul><p align="center"><br>  <a href="/content/images/A000/A000-OneDoesNot.jpg"><img src="/content/images/A000/A000-OneDoesNot.jpg" alt="Blog meme"></a><br></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;I’ve been told by a few people now, and I’ve been telling the same thing to myself for quite a while, you should start a blog. My name is
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -30,27 +51,6 @@
       
       
         &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Blog, you shall be written!</title>
-    <link href="http://yoursite.com/blog-you-shall-be-written/"/>
-    <id>http://yoursite.com/blog-you-shall-be-written/</id>
-    <published>2017-10-08T15:52:09.800Z</published>
-    <updated>2017-10-09T03:28:03.387Z</updated>
-    
-    <content type="html"><![CDATA[<p>I’ve been told by a few people now, and I’ve been telling the same thing to myself for quite a while, you should start a blog. My name is Leopold by the way, and I am a developer doing iOS Development for the most part. </p><p>There are already quite a few blogs/articles out there that do an amazing job. They are quite interesting, with examples most of the time, sometimes they are fun too (my favourites one usually, thanks <a href="https://krakendev.io/" target="_blank" rel="external">KrakenDev</a>. I will do my best to live up to them as the time passes and if I find interesting things to share with the community.</p><h2 id="Why-a-blog"><a href="#Why-a-blog" class="headerlink" title="Why a blog?"></a>Why a blog?</h2><p>In the past I tried quite a few times explaining abstract concepts to colleagues. I am among the people that work by example. Sometimes it’s not just about understanding what you can do with language or tools. Sometimes it’s first about understanding the challenges/problems to overcome with elegant solutions. </p><p>For example, I was able to understand the advantages of MVVM when I saw/understood how it was helping to reuse components. Before that MVVM was a beautiful abstract concept to me that did not hold any real value. Same thing can be said when I saw how the coordinator pattern was solving the bloated AppDelegate. Sometimes, you have to get your hands dirty to actually understand how solutions make you more efficient in the real life.  </p><h3 id="Code-Human-gt-Code-Monkey"><a href="#Code-Human-gt-Code-Monkey" class="headerlink" title="Code Human &gt; Code Monkey"></a>Code Human &gt; Code Monkey</h3><p>In this blog I will try to have 4 guidelines:</p><ul><li>You shall give (/alternative) solutions to problems with struct</li><li>You shall give examples/sample projects/walkthrough with explanations</li><li>You shall be accessible for the weak, the strong and the unowned</li></ul><p align="center"><br>  <a href="/content/images/A000/A000-OneDoesNot.jpg"><img src="/content/images/A000/A000-OneDoesNot.jpg" alt="Blog meme"></a><br></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;I’ve been told by a few people now, and I’ve been telling the same thing to myself for quite a while, you should start a blog. My name is
       
     
     </summary>
